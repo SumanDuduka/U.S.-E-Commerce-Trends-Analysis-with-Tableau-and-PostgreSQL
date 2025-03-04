@@ -53,4 +53,4 @@ This project analyzes U.S. e-commerce sales trends using **Tableau** and **Postg
 The dataset contains **286,393 rows** and **36 columns** covering e-commerce sales in the U.S.
 
 ## 📎 Resources
-- [Kaggle Dataset](https://www.kaggle.com/datasets/nelgiriyewithana/global-youtube-statistics-2023?resourcecriteria=download)*
+- [Kaggle Dataset](https://www.kaggle.com/datasets/ytgangster/online-sales-in-usa)
