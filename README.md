@@ -1,7 +1,7 @@
 # U.S. E-Commerce Analysis
 
 ## Project Overview
-This project analyzes U.S. e-commerce sales trends using **Tableau** and **PostgreSQL** to identify high-performing states, seasonal sales patterns, and customer demographics. The insights guide strategic store setup and inventory planning.
+This project analyzes U.S. e-commerce sales trends using **Tableau** and **PostgreSQL** to identify high-performing states, seasonal sales patterns, and customer demographics. The insights guide strategic store setup and inventory planning.The dataset used in this project contains **286,393** rows and **36** columns.
 
 ## Tools Used
 - **Tableau** (Data Visualization)
